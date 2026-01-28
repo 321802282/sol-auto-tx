@@ -16,7 +16,7 @@ A lightweight Solana trading bot built with Vite, React, and TypeScript. It util
 ## 🛠️ Prerequisites
 
 - [Node.js](https://nodejs.org/) (v18+ recommended)
-- [npm](https://www.npmjs.com/) or [yarn](https://yarnpkg.com/)
+- [pnpm](https://pnpm.io/) (v8+ recommended)
 - A Solana wallet private key (Use a **Burner Wallet** with minimal funds for safety)
 - A high-quality RPC URL (Helius or QuickNode strongly recommended; public nodes fail often)
 
@@ -24,12 +24,12 @@ A lightweight Solana trading bot built with Vite, React, and TypeScript. It util
 
 1. **Install Dependencies**:
    ```bash
-   npm install
+   pnpm install
    ```
 
 2. **Run Development Server**:
    ```bash
-   npm run dev
+   pnpm dev
    ```
 
 3. **Access the App**:

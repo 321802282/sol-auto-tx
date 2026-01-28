@@ -16,7 +16,7 @@
 ## 🛠️ 环境要求
 
 - [Node.js](https://nodejs.org/) (建议 v18+)
-- [npm](https://www.npmjs.com/) 或 [yarn](https://yarnpkg.com/)
+- [pnpm](https://pnpm.io/) (建议 v8+)
 - 一个 Solana 钱包私钥 (建议使用仅存少量资金的 **Burner Wallet** 以保安全)
 - 一个高质量的 RPC 节点 (强烈建议使用 Helius 或 QuickNode，公共节点极易失败)
 
@@ -24,12 +24,12 @@
 
 1. **安装依赖**：
    ```bash
-   npm install
+   pnpm install
    ```
 
 2. **启动开发服务器**：
    ```bash
-   npm run dev
+   pnpm dev
    ```
 
 3. **访问应用**：
