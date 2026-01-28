@@ -10,4 +10,5 @@ export default defineConfig({
       },
     }),
   ],
+  base: '/sol-auto-tx/',
 })
